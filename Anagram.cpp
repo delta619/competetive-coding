@@ -17,10 +17,10 @@ int main()
 		}
 		else
 		{
-			//lol
+			
 			
 				sort(a, a+l1);	
-				// temp
+				
 				sort(b, b+l2);
 				
 			int flag = 1;
