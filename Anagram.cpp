@@ -18,7 +18,7 @@ int main()
 		else
 		{
 			
-			
+			////// finall
 				sort(a, a+l1);	
 				
 				sort(b, b+l2);
