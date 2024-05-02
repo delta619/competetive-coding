@@ -1,0 +1,6 @@
+# ninja log v5
+1	40	1714635087770127482	build.ninja	596667196feb7ace
+0	327	1714635088100073558	CMakeFiles/competetive_coding.dir/main.cpp.o	bbb4488311fe6b60
+329	360	1714635088133560443	competetive_coding	dd44191f13d91f8d
+4	325	1714635099134813967	CMakeFiles/competetive_coding.dir/main.cpp.o	bbb4488311fe6b60
+325	357	1714635099166494485	competetive_coding	dd44191f13d91f8d
