@@ -1,3 +1,5 @@
+package main
+
 // leetcode 45
 
 func jump(nums []int) int {
