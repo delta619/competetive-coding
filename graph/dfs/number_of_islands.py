@@ -11,7 +11,7 @@ class Solution:
         self.dfs(grid, i, j+1)
         self.dfs(grid, i, j-1)
 
-    def numIslands(self, grid: List[List[str]]) -> int:
+    def numIslands(self, grid: List[List[str]]) -> int: 
         n = len(grid)
         m = len(grid[0])
         ans = 0
