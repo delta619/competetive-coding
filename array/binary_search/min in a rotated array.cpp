@@ -9,10 +9,10 @@ public:
             
             if(nums[mid] > nums[r]){
                 l = mid+1;
-                continue;
+            }else{
+                r = mid;
             }
             
-            r = mid;
 
         }
 
