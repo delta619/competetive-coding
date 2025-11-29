@@ -1,4 +1,7 @@
 /**
+ * Leetcode 371. Sum of Two Integers
+ * but you are not allowed to use the operator + and -.
+ * 
  * @param {number} a
  * @param {number} b
  * @return {number}
