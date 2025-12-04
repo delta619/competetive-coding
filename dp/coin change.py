@@ -20,3 +20,4 @@ class Solution:
         memo = {}
         ans = self.run(amount, coins, memo)
         return ans if ans != 10**9 else -1
+    
