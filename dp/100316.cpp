@@ -37,11 +37,6 @@ long long maximumTotalDamage(vector<int>& power){
     map<int, long long> dp;
     long long maxDamage = 0;
 
-    
-
-
-
-
 }
 
 int main(){
